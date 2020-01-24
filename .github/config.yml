@@ -1,0 +1,21 @@
+# Message for a new user who open an issue
+issueOpen: >
+  Welcome to the project!
+  Thanks and congrats for opening your very first issue in this project.
+  You may submit a PR on the same if you like!
+  Join the Slack channel for discussions.
+
+# Message for a new user who opens a PR
+prOpen: >
+  Welcome to the project!
+  Thanks and congrats for your first PR on this project.
+  We will review it soon!
+  Join the Slack channel for discussions.
+
+# Default message for a new user
+welcomeMessage: >
+  Welcome to the project! Feel free to explore it.
+  Checkout the documentation for more details on it.
+  Want to contribute? Open an issue or submit a PR.
+  You can check the contributing guidelines for the same.
+  Join the Slack channel for discussions.
